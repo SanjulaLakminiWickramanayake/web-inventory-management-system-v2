@@ -2,7 +2,7 @@
 // Database Configuration
 define('DB_HOST', 'fdb1028.awardspace.net');
 define('DB_USER', '4785756_main');
-define('DB_PASS', 'Abcd@1234');
+define('DB_PASS', 'ypur_db_password_here');
 define('DB_NAME', '4785756_main');
 
 // Create database connection
