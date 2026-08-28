@@ -1,9 +1,9 @@
 <?php
 // Database Configuration
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'chicken_farm_inventory');
+define('DB_HOST', 'fdb1028.awardspace.net');
+define('DB_USER', '4785756_main');
+define('DB_PASS', 'Sanju@1234');
+define('DB_NAME', '4785756_main');
 
 // Create database connection
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
